@@ -1,6 +1,5 @@
-def main():
-    print("Hello from python!")
+from app.config.logger import get_logger
 
+logger = get_logger(__name__)
 
-if __name__ == "__main__":
-    main()
+logger.info('checking the service')
