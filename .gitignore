@@ -6,3 +6,6 @@ node/node_modules
 
 python\.venv
 python/.venv
+
+python\.env
+python/.env
