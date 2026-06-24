@@ -1,0 +1,3 @@
+[2026-06-24 11:11:28.058 +0530] ERROR: Error while creating data in repository layer(CRUD)
+[2026-06-24 11:11:28.060 +0530] ERROR: Error while sending data from service
+[2026-06-24 11:11:28.060 +0530] ERROR: Error while creating user: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
